@@ -6,6 +6,8 @@
 ### Overview
 This is a simple and funny project using a timer and button function
 
+likk to xarts web with project:
+http://xarts.usfca.edu/~akowalczuk/alexa
 
 ### Technical Details
 
